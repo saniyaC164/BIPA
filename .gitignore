@@ -1,0 +1,7 @@
+FRONTEND/node_modules
+FRONTEND/package-lock.json
+FRONTEND/.env
+
+BACKEND/__pycache__
+BACKEND/venv
+BACKEND/.env
