@@ -1,0 +1,9 @@
+item_name,category,current_stock,reorder_level,unit_cost,last_updated
+Coffee Beans,Supplies,16,10,12.5,2024-09-19
+Milk,Dairy,10,5,2.8,2024-09-20
+Sugar,Supplies,13,5,0.8,2024-09-15
+Bread,Food,12,8,1.2,2024-09-17
+Cheese,Dairy,3,3,4.5,2024-09-17
+Vegetables,Fresh,6,5,3.2,2024-09-19
+Flour,Baking,38,15,2.1,2024-09-21
+Chocolate,Baking,5,2,6.8,2024-09-21
